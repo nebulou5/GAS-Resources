@@ -6,6 +6,10 @@ Guides
 1.  [GameplayAbilities And You](https://wiki.unrealengine.com/GameplayAbilities_and_You)
 2.  [Comprehensive GameplayAbilities Analysis](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/116578-comprehensive-gameplayabilities-analysis-series)
 
+Videos
+-------------
+1. [Intro to Gameplay Abilities in Unreal Engine 4](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
+
 Demos
 -------------
 1. [Dave Ratti's Sample Repo](https://github.com/daveratti/GameplayAbilitiesSample)
