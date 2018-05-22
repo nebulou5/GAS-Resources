@@ -15,6 +15,10 @@ Demos
 1. [Dave Ratti's Sample Repo](https://github.com/daveratti/GameplayAbilitiesSample)
 2. [Michael Chapman's Sample Repo](https://github.com/michaeltchapman/MCGameplayAbilities)
 
+Other Resources
+-------------
+1. [Dan Pan's Resource Repo](https://github.com/Pantong51/GASContent)
+
 API Docs
 -------------
 A mystery for the ages
