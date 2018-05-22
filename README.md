@@ -4,7 +4,7 @@ A Collection of UE4 Abilities Plugin Resources
 Guides
 -------------
 1.  [GameplayAbilities And You](https://wiki.unrealengine.com/GameplayAbilities_and_You)
-2.  [Comprehensive Gameplay Abilities Analysis](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/116578-comprehensive-gameplayabilities-analysis-series)
+2.  [Comprehensive GameplayAbilities Analysis](https://forums.unrealengine.com/community/community-content-tools-and-tutorials/116578-comprehensive-gameplayabilities-analysis-series)
 
 Demos
 -------------
