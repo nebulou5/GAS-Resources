@@ -15,10 +15,11 @@ Videos
 1. [Intro to Gameplay Abilities in Unreal Engine 4](https://www.youtube.com/watch?v=Ev2P6BTUxN0)
 2. [Woppin's GAS Talk](https://www.youtube.com/watch?v=OyiweL2nPac)
 
-Demos
+Demos/Examples
 -------------
 1. [Dave Ratti's Sample Repo](https://github.com/daveratti/GameplayAbilitiesSample)
 2. [Michael Chapman's Sample Repo](https://github.com/michaeltchapman/MCGameplayAbilities)
+3. [Kaz's AttributeSet Gist](https://gist.github.com/kazuja/5b03080003618ed783c65cf5c478b589)
 
 Other Resources
 -------------
